@@ -1,0 +1,12 @@
+{
+  "name": "nextrole-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.500.0",
+    "@aws-sdk/client-s3": "^3.500.0",
+    "@aws-sdk/client-textract": "^3.500.0",
+    "@aws-sdk/lib-dynamodb": "^3.500.0",
+    "@google/generative-ai": "^0.21.0"
+  }
+}
